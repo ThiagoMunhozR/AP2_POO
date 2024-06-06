@@ -22,6 +22,14 @@ Este programa ajusta os preços dos produtos de uma farmácia, aplicando um aume
 * Arredondamento: Arredonda o valor ajustado para duas casas decimais usando `Math.round`.
 * Encerramento: O programa encerra quando o valor do produto digitado for zero.
 
+### 3. Gerador de Senhas Aleatórias / GeradorDeSenhas.java 
+Este programa gera uma senha numérica aleatória com um número de dígitos entre 5 e 10. O comprimento da senha é determinado aleatoriamente, e cada dígito da senha é gerado de forma aleatória.
+
+Funcionalidades
+* Comprimento Aleatório: O comprimento da senha é um número aleatório entre 5 e 10.
+* Geração de Dígitos Aleatórios: Cada dígito da senha é um número aleatório entre 0 e 9.
+* Exibição da Senha: A senha gerada é exibida no console.
+
 ## Instruções de Execução
 
 Para compilar e executar qualquer um dos programas listados acima, siga as etapas abaixo:
