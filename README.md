@@ -39,6 +39,14 @@ Funcionalidades
 * Inversão da Frase: Inverte a frase sem espaços.
 * Exibição da Frase Invertida: Exibe a frase invertida no console.
 
+### 5. Detector de Conteúdo Impróprio / DetectorDeConteudoImproprio.java
+Este programa verifica se uma frase contém as palavras "sexo" ou "sexual" e emite uma mensagem adequada. Se encontrar essas palavras, a mensagem será "conteúdo impróprio". Caso contrário, a mensagem será "conteúdo liberado".
+
+Funcionalidades
+* Entrada de Dados: Solicita ao usuário que digite uma frase.
+* Verificação de Conteúdo: Verifica se a frase contém as palavras "sexo" ou "sexual".
+* Exibição de Resultados: Exibe "conteúdo impróprio" se encontrar essas palavras e "conteúdo liberado" se não encontrar.
+
 ## Instruções de Execução
 
 Para compilar e executar qualquer um dos programas listados acima, siga as etapas abaixo:
