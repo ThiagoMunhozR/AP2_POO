@@ -30,6 +30,15 @@ Funcionalidades
 * Geração de Dígitos Aleatórios: Cada dígito da senha é um número aleatório entre 0 e 9.
 * Exibição da Senha: A senha gerada é exibida no console.
 
+### 4. Inversor de Frases / InversorDeFrases.java
+Este programa recebe uma frase do usuário, remove todos os espaços em branco, e exibe a frase de trás para frente.
+
+Funcionalidades
+* Entrada de Dados: Solicita ao usuário que digite uma frase.
+* Remoção de Espaços: Remove todos os espaços em branco da frase digitada.
+* Inversão da Frase: Inverte a frase sem espaços.
+* Exibição da Frase Invertida: Exibe a frase invertida no console.
+
 ## Instruções de Execução
 
 Para compilar e executar qualquer um dos programas listados acima, siga as etapas abaixo:
