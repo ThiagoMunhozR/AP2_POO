@@ -55,6 +55,14 @@ Funcionalidades
 * Manipulação de Substrings: Exibe o substring composto por todos os caracteres exceto o último.
 * Tratamento de Frases Vazias: Verifica se a frase digitada está vazia e fornece uma mensagem apropriada.
 
+### 7. Calculadora de Potência / CalculadoraDePotencia.java
+Este programa calcula a potência de um número dado, usando o método `pow` de `Math`.
+
+Funcionalidades
+* Entrada de Dados: Solicita ao usuário que digite a base e a potência.
+* Cálculo da Potência: Eleva a base à potência usando o método `pow` de `Math`.
+* Exibição do Resultado: Apresenta o resultado da operação de potência.
+
 ## Instruções de Execução
 
 Para compilar e executar qualquer um dos programas listados acima, siga as etapas abaixo:
