@@ -47,6 +47,14 @@ Funcionalidades
 * Verificação de Conteúdo: Verifica se a frase contém as palavras "sexo" ou "sexual".
 * Exibição de Resultados: Exibe "conteúdo impróprio" se encontrar essas palavras e "conteúdo liberado" se não encontrar.
 
+### 6. Manipulação de Substrings / ManipulacaoDeSubstrings.java
+Este programa exibe o substring de uma string, composto por todos os caracteres exceto o último.
+
+Funcionalidades
+* Entrada de Dados: Solicita ao usuário que digite uma frase.
+* Manipulação de Substrings: Exibe o substring composto por todos os caracteres exceto o último.
+* Tratamento de Frases Vazias: Verifica se a frase digitada está vazia e fornece uma mensagem apropriada.
+
 ## Instruções de Execução
 
 Para compilar e executar qualquer um dos programas listados acima, siga as etapas abaixo:
