@@ -63,6 +63,14 @@ Funcionalidades
 * Cálculo da Potência: Eleva a base à potência usando o método `pow` de `Math`.
 * Exibição do Resultado: Apresenta o resultado da operação de potência.
 
+### 8. Conversor de Radianos para Graus / ConversorRadianosParaGraus.java
+Este programa converte um valor dado em radianos para graus, usando o método `toDegrees` de `Math`.
+
+Funcionalidades
+* Entrada de Dados: Solicita ao usuário que digite o valor em radianos.
+* Conversão para Graus: Converte o valor em radianos para graus usando o método `toDegrees` de `Math`.
+* Exibição do Resultado: Apresenta o resultado da conversão.
+
 ## Instruções de Execução
 
 Para compilar e executar qualquer um dos programas listados acima, siga as etapas abaixo:
